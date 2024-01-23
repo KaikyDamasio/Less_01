@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form input{
+    display: block;
+    padding: 10px 300px;
+    margin: 20px;
+
+}
+
+form{
+    padding: 20px;
+}
+
+form button{
+    background-color: greenyellow;
+    padding: 10px 355px;
+    margin: 20px;
+}
